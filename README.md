@@ -9,5 +9,5 @@ Cybersecurity-focused with a strong emphasis on hands-on learning, problem-solvi
 
 This profile serves as a living portfolio of how I approach technical challenges, document findings, and grow professionally.
 
-💼 Open to cybersecurity opportunities and always open to discussing my work.
+💼 Open to cybersecurity opportunities.
 
